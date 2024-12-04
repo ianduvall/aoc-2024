@@ -1,0 +1,11 @@
+{
+	"name": "aoc-2024",
+	"module": "index.ts",
+	"type": "module",
+	"private": false,
+	"devDependencies": {
+		"@biomejs/biome": "^1.9.4",
+		"@types/bun": "latest",
+		"typescript": "~5.7.0"
+	}
+}
