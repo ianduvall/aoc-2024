@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test";
-import { part1, part2 } from "./solution";
 // @ts-expect-error - typescript doesn't understand txt files
 import input from "./input.txt" with { type: "text" };
+import { part1, part2 } from "./solution";
 
 describe("day 1", () => {
 	test("part 1", () => {

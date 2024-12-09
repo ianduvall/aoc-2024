@@ -4,7 +4,7 @@
 	"type": "module",
 	"private": false,
 	"devDependencies": {
-		"@biomejs/biome": "^1.9.4",
+		"@biomejs/biome": "1.9.4",
 		"@types/bun": "latest",
 		"typescript": "~5.7.0"
 	}
