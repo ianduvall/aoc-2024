@@ -3,7 +3,7 @@ import { describe, expect, test } from "bun:test";
 import input from "./input.txt" with { type: "text" };
 import { part1, part2 } from "./solution";
 
-describe("day 4 ", () => {
+describe("day 4", () => {
 	const exampleInput = `MMMSXXMASM
 												MSAMXMSMSA
 												AMXSXMAAMM
